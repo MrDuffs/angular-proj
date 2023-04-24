@@ -1,6 +1,40 @@
-# AngularProj
+# Angular-proj
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+
+## About project
+
+**Angular-proj** is a simple project made with Angular that designed to receive and display a random icon 
+from Font Awesome library.
+
+## Used Technologies
+
+- JavaScript/Typescript;
+- Angular;
+- Tailwind CSS;
+- Font Awesome 6+;
+
+## Local launch
+
+To see functionality of the app, you need to:
+- Clone the repository
+```
+git clone https://github.com/MrDuffs/angular-proj.git
+```
+- In the directory of the project, execute next commands:
+  - Before starting the project complete installing of dependencies:
+  ```
+  npm i
+  ```
+  - Now you can start the app with this command:
+  ```
+  npm start
+  ```
+  P.S After executing of the last command, you will have a deployed dev server at the link `http://localhost:4200/`
+
+# Default Readme Info
+
+I left this pre-installed readme information just in case.
 
 ## Development server
 
